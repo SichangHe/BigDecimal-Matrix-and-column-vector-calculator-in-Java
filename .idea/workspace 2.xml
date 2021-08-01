@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cf786bb-5017-4bb1-a527-712a865f5ac4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="This Class" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home/lib/src.zip!/java.base/java/math/BigDecimal.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home/lib/src.zip!/java.base/java/math/MathContext.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1vErrzvjoUb9Rz62p00t0TUqsqG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com/testClient" />
+      <recent name="$PROJECT_DIR$/com/matrixCaculator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.solveMatrixTemplate">
+    <configuration name="MatrixBD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.matrixCaculator.MatrixBD" />
+      <module name="matrix operations" />
+      <extension name="recording" autostart="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.matrixCaculator.MatrixD" />
+      <module name="matrix operations" />
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solveMatrixTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testClient.solveMatrixTemplate" />
+      <module name="matrix operations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testClient.test" />
+      <module name="matrix operations" />
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testClient.test1" />
+      <module name="matrix operations" />
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="recording" autostart="false" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MatrixBD" />
+      <item itemvalue="Application.MatrixD" />
+      <item itemvalue="Application.solveMatrixTemplate" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.solveMatrixTemplate" />
+        <item itemvalue="Application.MatrixD" />
+        <item itemvalue="Application.MatrixBD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf786bb-5017-4bb1-a527-712a865f5ac4" name="Default Changelist" comment="" />
+      <created>1626138301927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626138301927</updated>
+      <workItem from="1626420299033" duration="1558000" />
+      <workItem from="1626425739591" duration="2475000" />
+      <workItem from="1626476914944" duration="837000" />
+      <workItem from="1626477829390" duration="60000" />
+      <workItem from="1626477904623" duration="37000" />
+      <workItem from="1626477961169" duration="1897000" />
+      <workItem from="1626480878649" duration="693000" />
+      <workItem from="1626487358976" duration="172000" />
+      <workItem from="1626488922908" duration="2529000" />
+      <workItem from="1626506227647" duration="4785000" />
+      <workItem from="1626612807758" duration="585000" />
+      <workItem from="1626613477439" duration="932000" />
+      <workItem from="1626614534964" duration="100000" />
+      <workItem from="1626614666268" duration="71000" />
+      <workItem from="1626614757369" duration="21000" />
+      <workItem from="1626614807594" duration="79000" />
+      <workItem from="1626614905186" duration="135000" />
+      <workItem from="1626615068758" duration="515000" />
+      <workItem from="1626615607277" duration="333000" />
+      <workItem from="1626616038944" duration="80000" />
+      <workItem from="1626616133746" duration="2298000" />
+      <workItem from="1627002053806" duration="103000" />
+      <workItem from="1627090640303" duration="1034000" />
+      <workItem from="1627710829222" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="matrix operations" type="b2602c69:ProjectViewProjectNode" />
+        <item name="matrix operations" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
